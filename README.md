@@ -6,7 +6,9 @@ O voto eletrónico consiste na obtenção, armazenamento e contagem de votos, po
 # Objetivos do projecto
 No final do projeto cada estudante deverá ter:
 
-• programado um sistema de voto eletrónico, com arquitetura cliente-servidor; • seguido um modelo multithreaded para desenhar os servidores;
+• programado um sistema de voto eletrónico, com arquitetura cliente-servidor; 
+
+• seguido um modelo multithreaded para desenhar os servidores;
 
 • aplicado sockets para comunicação entre clientes e servidores;
 
